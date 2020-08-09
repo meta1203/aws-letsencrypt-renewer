@@ -2,7 +2,7 @@
 Docker image for renewing wildcard certs in AWS.  
 Requires Route53 and S3 permissions for authorization and uploading the certificates
 
-=Required environment variables:=
+Required environment variables:
 
 **SITE** - The domain to secure (eg. example.com)  
 **EMAIL** - Your email address used by LetsEncrypt  
