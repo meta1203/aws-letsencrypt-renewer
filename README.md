@@ -8,3 +8,4 @@ Required environment variables:
 **EMAIL** - Your email address used by LetsEncrypt  
 **S3_PUBLIC_KEY** - Where to store the generated public key within S3 (eg. bucket/path/to/public_key.pem)  
 **S3_PRIVATE_KEY** - Where to store the generated private key within S3 (eg. bucket/path/to/private_key.pem)  
+**S3_CERTIFICATE** - Where to store the generated certificate within S3 (eg. bucket/path/to/certificate.pem)  
